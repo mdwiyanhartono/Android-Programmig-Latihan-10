@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Latihan 10</string>
+
+    <string name="imageheader">Header Background</string>
+    <string name="buttonswitch">Switch</string>
+    <string name="textjudul">Program Menghitung Persegi</string>
+    <string name="textpanjang">Panjang</string>
+    <string name="textlebar">Lebar</string>
+    <string name="btnsubmit">Submit</string>
+    <string name="nilaiawal">0</string>
+    <string name="hasil">Hasil</string>
+    <string name="fab">fab</string>
+    <string name="lableNama">Nama</string>
+    <string name="titik2">:</string>
+    <string name="nama">M. Dwiyan Hartono</string>
+    <string name="lableNIM">NIM</string>
+    <string name="nim">3420160144</string>
+    <string name="skalaRating">
+        Keterangan : \n
+        Bintang 5: Sangat Setuju\n
+        Bintang 4: Setuju\n
+        Bintang 3: Kurang Setuju\n
+        Bintang 2: Tidak Setuju\n
+        Bintang 1: Sangat Tidak Setuju
+    </string>
+    <string name="button_Exit">Exit</string>
+    <string name="program_rating_bar">Rating </string>
+    <string name="Konfirmasi">Yakin mau menutup Profile</string>
+    <string name="my_profile">MY Profile</string>
+</resources>

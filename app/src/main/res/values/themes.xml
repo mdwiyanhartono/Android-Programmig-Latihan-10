@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Latihan10" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="buttonMain" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/LightGrey</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:backgroundTint" tools:ignore="NewApi">@color/Maroon</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="textViewMain_Judul" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/Maroon</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="textViewMain_Sub" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+</resources>
